@@ -1,90 +1,164 @@
-# Hola, soy Alfredo Mercado
+# Alfredo Mercado | Full Stack Software Developer
 
-Estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software, especialmente en backend, APIs y aplicaciones web.  
-Me gusta aprender construyendo proyectos reales y mejorando continuamente mis habilidades en programación, bases de datos y arquitectura de sistemas.
+Stack principal: Python | FastAPI | Flask | MySQL | APIs REST | JavaScript
 
-Actualmente estoy fortaleciendo mis conocimientos en desarrollo backend, bases de datos y también aprendiendo conceptos de redes.
+Estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software y aplicaciones web completas.  
+Mi principal fortaleza es el desarrollo backend y la creación de APIs, pero también tengo experiencia desarrollando interfaces web y conectándolas con servicios y bases de datos.
 
----
-
-## Áreas de interés
-- Desarrollo Backend
-- APIs REST
-- Desarrollo Web Full Stack
-- Bases de datos
-- Redes informáticas
-- Arquitectura de software
+Me gusta aprender construyendo proyectos reales y aplicar buenas prácticas de desarrollo, documentación de software y pruebas de APIs.
 
 ---
 
-## Tecnologías y conocimientos
+# Sobre mí
 
-### Lenguajes de programación
-- Python
-- PHP (intermedio)
-- Java (básico)
-- JavaScript
-- SQL
+Desarrollador de software en formación con experiencia en:
+
+- Desarrollo de aplicaciones web full stack
+- Creación de APIs REST
+- Integración frontend y backend
+- Modelado y manejo de bases de datos
+- Documentación de APIs
+- Pruebas de endpoints con Postman
+- Uso de inteligencia artificial para mejorar productividad en desarrollo
+
+---
+
+# Tecnologías
 
 ### Backend
+- Python
 - FastAPI
 - Flask
+- PHP (intermedio)
 - Node.js (básico)
 
 ### Frontend
 - HTML
 - CSS
 - JavaScript
-
-### Frameworks y herramientas de estilo
 - Bootstrap
 - Tailwind CSS
 
 ### Bases de datos
 - MySQL
+- SQL
+- SQLAlchemy
 
-### Herramientas y tecnologías
+### Herramientas de desarrollo
 - Git
 - GitHub
-- SQLAlchemy
-- Swagger
-- REST APIs
+- Postman
+- Swagger / OpenAPI
+- APIs REST
+
+### Productividad con IA
+Uso herramientas de inteligencia artificial para:
+- Optimización de código
+- Generación y mejora de documentación
+- Apoyo en debugging
+- Aceleración del desarrollo de software
 
 ---
 
-## Proyectos destacados
+# Proyectos Destacados
 
-### Sistema de Inventario (API Backend)
-API REST desarrollada con FastAPI para la gestión de productos y categorías. Incluye autenticación con JWT, conexión a base de datos MySQL y documentación interactiva mediante Swagger.
+## Sistema de Inventario (Proyecto principal)
+Repositorio  
+https://github.com/Alfre2106/inventario
 
-### Software de Gestión de Farmacia
-Aplicación web full stack desarrollada con Flask, MySQL, HTML, CSS y JavaScript para la administración de una farmacia. Permite gestionar productos, clientes, usuarios y ventas mediante operaciones CRUD.
+API REST desarrollada para la gestión de productos dentro de un sistema de inventario.
 
-### API SQL (API REST con Flask y MySQL)
-API REST desarrollada con Flask para gestionar usuarios y productos con operaciones CRUD. Implementa conexión con base de datos MySQL y manejo de respuestas en formato JSON.
+Tecnologías  
+FastAPI · Python · MySQL · SQLAlchemy · JWT · Swagger · Postman
 
-### Animal Manager
-Aplicación backend desarrollada con FastAPI y SQLAlchemy para administrar registros de animales y propietarios mediante una API REST conectada a base de datos MySQL.
-
-### Donde Alfredo
-Sitio web frontend desarrollado con HTML, CSS y JavaScript como uno de mis primeros proyectos de desarrollo web, con múltiples páginas y diseño personalizado.
+Características
+- CRUD completo de productos
+- Autenticación con JWT
+- Documentación automática de API
+- Pruebas de endpoints
+- Arquitectura backend organizada
 
 ---
 
-## Actualmente aprendiendo
-- Arquitectura de backend
+## Software de Gestión de Farmacia (Proyecto Full Stack)
+Repositorio  
+https://github.com/Alfre2106/Software_Farmacia
+
+Aplicación web completa para la administración de farmacia.
+
+Tecnologías  
+Flask · Python · MySQL · HTML · CSS · JavaScript
+
+Funciones
+- Gestión de productos
+- Registro de ventas
+- Administración de clientes
+- Sistema CRUD completo
+- Integración frontend y backend
+
+---
+
+## Animal Manager
+Repositorio  
+https://github.com/Alfre2106/animal-manager
+
+Backend para la gestión de animales y propietarios.
+
+Tecnologías  
+FastAPI · Python · SQLAlchemy · MySQL
+
+Características
+- Endpoints REST
+- Modelado de base de datos
+- Arquitectura modular
+
+---
+
+## API SQL
+Repositorio  
+https://github.com/Alfre2106/api_sql
+
+API REST conectada a base de datos relacional.
+
+Tecnologías  
+Flask · Python · MySQL · REST API
+
+---
+
+## Donde Alfredo (Proyecto Frontend)
+Repositorio  
+https://github.com/Alfre2106/Donde_Alfredo
+
+Proyecto frontend desarrollado como práctica de desarrollo web.
+
+Tecnologías  
+HTML · CSS · JavaScript
+
+Incluye
+- Sitio multipágina
+- Navegación entre secciones
+- Diseño web personalizado
+
+---
+
+# Actualmente aprendiendo
+- Arquitectura de software
 - Seguridad en APIs
 - Redes informáticas
-- Buenas prácticas de desarrollo
+- Mejores prácticas de desarrollo
 - Optimización de bases de datos
 
 ---
 
-## Objetivo profesional
-Seguir creciendo como desarrollador backend y adquirir experiencia trabajando en proyectos reales relacionados con APIs, sistemas web y arquitectura de software.
+# Objetivo profesional
+Desarrollarme como Software Developer participando en proyectos reales donde pueda aplicar desarrollo backend, frontend y construcción de sistemas completos.
 
 ---
 
-## Contacto
-GitHub:
+# Contacto
+GitHub  
 https://github.com/Alfre2106
+
+Correo
+titoleal41@gmail.com 
+titomerle6@gmail.com 
