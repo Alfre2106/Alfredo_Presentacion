@@ -1,17 +1,18 @@
 # 👋 Hola, soy Alfredo Mercado
 
 🎓 Estudiante de Ingeniería de Sistemas  
-💻 Backend Developer Junior en formación  
+💻 Backend Developer Junior | Python • REST APIs • MySQL
 📍 Barranquilla, Colombia
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas enfocado en el desarrollo backend y la creación de aplicaciones web orientadas a resolver problemas reales.  
-Tengo experiencia desarrollando sistemas administrativos y APIs REST utilizando Python, Flask/FastAPI y bases de datos MySQL.
+Soy estudiante de Ingeniería de Sistemas enfocado en desarrollo backend y construcción de APIs REST orientadas a resolver problemas reales.  
 
-Me interesa el diseño de APIs, la arquitectura backend y el desarrollo de soluciones tecnológicas escalables.
+He desarrollado sistemas administrativos completos y servicios backend utilizando Python, FastAPI, Flask y bases de datos MySQL, aplicando diseño CRUD, integración frontend–backend y organización modular de proyectos.
+
+Actualmente busco oportunidades como desarrollador backend junior o prácticas profesionales donde pueda aportar y seguir fortaleciendo mis habilidades en desarrollo de software.
 
 ---
 
@@ -80,3 +81,5 @@ API REST para gestión de usuarios y productos mediante endpoints CRUD y respues
 ## 📫 Contacto
 
 📧 titoleal41@gmail.com  
+
+🔎 Abierto a oportunidades como Backend Developer Junior / Practicante de Desarrollo.
